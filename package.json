@@ -14,6 +14,9 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.9.2",
     "@vue/cli-service": "^3.9.2",
+    "coffee-loader": "^0.9.0",
+    "coffeescript": "^2.3.2",
+    "vue-cli-plugin-coffeescript": "^0.0.3",
     "vue-cli-plugin-pug": "^1.0.7",
     "vue-template-compiler": "^2.6.10"
   }

@@ -1800,6 +1800,16 @@ code-point-at@^1.0.0:
   version "1.1.0"
   resolved "https://registry.npm.taobao.org/code-point-at/download/code-point-at-1.1.0.tgz#0d070b4d043a5bea33a2f1a40e2edb3d9a4ccf77"
 
+coffee-loader@^0.9.0:
+  version "0.9.0"
+  resolved "https://registry.npm.taobao.org/coffee-loader/download/coffee-loader-0.9.0.tgz#6deabd336062ddc6d773da4dfd16367fc7107bd6"
+  dependencies:
+    loader-utils "^1.0.2"
+
+coffeescript@^2.3.2:
+  version "2.4.1"
+  resolved "https://registry.npm.taobao.org/coffeescript/download/coffeescript-2.4.1.tgz#815fd337df0a34d49e74a98a6ebea9c3e7930f70"
+
 collection-visit@^1.0.0:
   version "1.0.0"
   resolved "https://registry.npm.taobao.org/collection-visit/download/collection-visit-1.0.0.tgz#4bc0373c164bc3291b4d368c829cf1a80a59dca0"
@@ -6411,6 +6421,10 @@ vm-browserify@^1.0.1:
 void-elements@^2.0.1:
   version "2.0.1"
   resolved "https://registry.npm.taobao.org/void-elements/download/void-elements-2.0.1.tgz#c066afb582bb1cb4128d60ea92392e94d5e9dbec"
+
+vue-cli-plugin-coffeescript@^0.0.3:
+  version "0.0.3"
+  resolved "https://registry.npm.taobao.org/vue-cli-plugin-coffeescript/download/vue-cli-plugin-coffeescript-0.0.3.tgz#717b608395a2bafc31c0d568159e014a16fbb6bc"
 
 vue-cli-plugin-pug@^1.0.7:
   version "1.0.7"
